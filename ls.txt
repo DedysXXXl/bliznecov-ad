@@ -1,0 +1,9 @@
+total 28K
+drwxrwxr-x 3 Artem Artem 4.0K Feb 14 09:50 ./
+drwxrwxr-x 4 Artem Artem 4.0K Feb 14 09:46 ../
+-rw-rw-r-- 1 Artem Artem  597 Feb 14 09:49 config.txt
+-rw-rw-r-- 1 Artem Artem  157 Feb 14 09:46 first.txt
+drwxrwxr-x 8 Artem Artem 4.0K Feb 14 09:50 .git/
+-rw-rw-r-- 1 Artem Artem    0 Feb 14 09:50 ls.txt
+-rw-rw-r-- 1 Artem Artem   14 Feb 14 09:46 README.md
+-rw-rw-r-- 1 Artem Artem  199 Feb 14 09:46 status.txt
